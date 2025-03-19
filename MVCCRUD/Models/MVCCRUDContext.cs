@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using MVCCRUD.Models;
 
 namespace MVCCRUD.Models
 {
@@ -17,6 +18,8 @@ namespace MVCCRUD.Models
         }
 
         public virtual DbSet<Usuario> Usuarios { get; set; } = null!;
+
+        public virtual DbSet<Articulo> Articulos { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -42,9 +45,31 @@ namespace MVCCRUD.Models
                     .IsUnicode(false);
             });
 
+            modelBuilder.Entity<Articulo>(entity =>
+            {
+                //entity.HasKey(e => e.Id); // Definir clave primaria
+
+                entity.Property(e => e.Nombre)
+                    .HasMaxLength(50)  // Limita el nombre a 100 caracteres
+                    .IsUnicode(false);
+
+                entity.Property(e => e.Descripcion)
+                    .HasMaxLength(100)  // Limita la descripción a 255 caracteres
+                    .IsUnicode(false);
+
+                entity.Property(e => e.Cantidad)
+                    .HasColumnType("int"); // Asegura que la columna sea de tipo entero
+
+                entity.Property(e => e.FechaIngreso)
+                    .HasColumnType("date"); // Define tipo datetime en la BD
+            });
+
+
+
             OnModelCreatingPartial(modelBuilder);
         }
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+
     }
 }

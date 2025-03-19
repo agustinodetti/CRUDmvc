@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\grios\\desktop\\cursoapi\\mvccrud\\mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\grios\\desktop\\cursoapi\\mvccrud\\mvccrud\\models\\mvccrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\models\\mvccrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\grios\\desktop\\cursoapi\\mvccrud\\mvccrud\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\grios\\desktop\\cursoapi\\mvccrud\\mvccrud\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\grios\\desktop\\cursoapi\\mvccrud\\mvccrud\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\grios\\desktop\\cursoapi\\mvccrud\\mvccrud\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\grios\\desktop\\cursoapi\\mvccrud\\mvccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +23,16 @@
       "RelativeMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\grios\\desktop\\cursoapi\\mvccrud\\mvccrud\\models\\mvccrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\models\\mvccrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\grios\\desktop\\cursoapi\\mvccrud\\mvccrud\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\grios\\desktop\\cursoapi\\mvccrud\\mvccrud\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\grios\\desktop\\cursoapi\\mvccrud\\mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{095676B9-17C8-4EB2-8776-B08932DBC196}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,43 +42,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Views\\Usuarios\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCCRUD\\Views\\Usuarios\\Index.cshtml",
               "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Views\\Usuarios\\Index.cshtml",
               "RelativeToolTip": "MVCCRUD\\Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-18T14:59:46.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCCRUD\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MVCCRUD\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-18T14:58:20.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "MVCCRUD\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "MVCCRUD\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T14:57:35.252Z",
               "EditorCaption": ""
@@ -83,7 +91,7 @@
               "RelativeDocumentMoniker": "MVCCRUD\\Program.cs",
               "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Program.cs",
               "RelativeToolTip": "MVCCRUD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T14:45:08.622Z",
               "EditorCaption": ""
@@ -103,16 +111,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MVCCRUDContext.cs",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Models\\MVCCRUDContext.cs",
               "RelativeDocumentMoniker": "MVCCRUD\\Models\\MVCCRUDContext.cs",
               "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Models\\MVCCRUDContext.cs",
               "RelativeToolTip": "MVCCRUD\\Models\\MVCCRUDContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T14:42:44.137Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "MVCCRUD\\Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:21:26.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\MVCCRUD\\MVCCRUD\\Models\\Articulo.cs",
+              "RelativeToolTip": "MVCCRUD\\Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:18:42.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             }
           ]
         }
