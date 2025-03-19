@@ -21,9 +21,9 @@ Sitio web CRUD
 
 **1️⃣ Clonar el Repositorio**
 
-   git clone https://github.com/agustinodetti/webAPI.git
+   git clone https://github.com/agustinodetti/CRUDmvc.git
   
-   cd webAPI
+   cd CRUDmvc
 
 **2️⃣ Configuración**
 
